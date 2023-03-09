@@ -1,2 +1,2 @@
-# tests
-trening_tests
+# Tests
+Some test codes
